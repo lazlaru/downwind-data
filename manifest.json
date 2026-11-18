@@ -1,0 +1,22 @@
+{
+  "files" : {
+    "aircraft.sqlite" : {
+      "bytes" : 17459847,
+      "file" : "aircraft.sqlite.lzfse",
+      "sha256" : "28d470d22b877f4381f98eecc3277d3c04fb926cbf9a05a7ba113a5c6c740a54",
+      "version" : "2026-11-18T00:00:00Z"
+    },
+    "airports.json" : {
+      "bytes" : 1268714,
+      "file" : "airports.json.lzfse",
+      "sha256" : "f35e83e469976d013d9528beb7b71b992afbc11ccbbd31811782835c482a3490",
+      "version" : "2026-10-29T00:00:00Z"
+    },
+    "types.json" : {
+      "bytes" : 12171,
+      "file" : "types.json.lzfse",
+      "sha256" : "b269d87c1b1a4cc8105ed8635ddd1601d78bc1feebb922de6e3a39ee6128aff5",
+      "version" : "2026-11-15T13:22:00Z"
+    }
+  }
+}
